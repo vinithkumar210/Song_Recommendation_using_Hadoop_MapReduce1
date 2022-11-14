@@ -1,0 +1,198 @@
+label,songs
+anger1,song997 song627 song318 song678 song994 song623
+anger2,song351 song115 song573 song401 song530 song399 song409 song700 song812 song977
+anger3,song273 song998 song497 song865 song857 song837 song518
+anger4,song35 song778 song813 song101 song775 song817 song123 song49 song516 song149
+anger5,song79 song799
+anger6,song810 song961 song120 song626
+anger7,song383 song467 song332 song134
+anger8,song928 song595 song484 song277
+anger9,song610 song169 song650 song713 song627 song793 song551 song693 song928 song130
+anger10,song747
+joy1,song132 song885 song639 song283
+joy2,song42 song563 song238 song326 song726
+joy3,song354 song567 song615 song52
+joy4,song787 song906 song598
+joy5,song242 song658 song537 song810 song403 song499 song502 song546
+joy6,song49 song741 song194 song921 song656 song550 song268 song499 song154
+joy7,song99 song269 song395 song717 song786 song989 song244 song493
+joy8,song522 song595 song3 song495 song60 song686
+joy9,song801
+joy10,song682 song557 song504 song249 song50
+surprise1,song483 song90 song732
+surprise2,song230 song756 song473 song973 song598 song34 song3 song213 song224 song559
+surprise3,song490 song363 song442 song110 song94 song284 song68 song74 song302 song230
+surprise4,song346 song91 song153 song911 song374
+surprise5,song128 song810 song882 song489 song345
+surprise6,song872 song68 song85 song427 song839 song745 song918
+surprise7,song224 song909 song651 song749 song461 song388 song222 song555 song256
+surprise8,song809 song766 song886 song674 song945 song375 song354 song349 song282 song334
+surprise9,song519 song987 song692
+surprise10,song247
+sorrow1,song451 song126 song486 song984 song754
+sorrow2,song729 song170 song169
+sorrow3,song836 song510 song632 song490 song423
+sorrow4,song94 song732 song918 song278 song20 song403
+sorrow5,song863 song687
+sorrow6,song416 song882 song647 song774 song948 song852
+sorrow7,song536 song226 song875 song395 song104 song786 song669 song262 song646
+sorrow8,song246 song452 song841 song709 song72 song174 song489 song436 song587 song82
+sorrow9,song209 song297 song609 song584
+sorrow10,song508 song833 song715 song26 song939
+PositiveorNegative1,song952 song955 song92 song291 song867 song761 song252
+PositiveorNegative2,song161 song301 song453 song686 song412 song931 song532 song325 song321 song52
+PositiveorNegative3,song939 song768 song380 song519 song747 song777 song787
+PositiveorNegative4,song998 song76 song180 song996 song681 song480 song695 song153
+PositiveorNegative5,song799 song417 song997 song557 song272 song965
+PositiveorNegative6,song242 song825 song510 song313
+PositiveorNegative7,song591
+PositiveorNegative8,song342 song650 song195
+PositiveorNegative9,song218 song97 song309 song753 song807 song708 song808 song629 song584 song160
+PositiveorNegative10,song582 song808 song812 song728 song92 song827 song425 song851
+boston,song912 song246 song955 song447 song335 song914 song749
+boston common,song154 song738 song756 song750 song334 song699 song216 song364 song338 song951
+skyline,song42 song339 song688 song240 song203 song503 song992 song731 song433 song635
+geographical feature,song214 song570 song587 song259 song905 song871 song461
+human settlement,song470 song233 song605 song227 song663 song494 song806
+skyscraper,song866 song89 song872 song982 song234 song710
+cityscape,song812
+river,song173 song100 song610 song44 song391
+downtown,song595 song204 song205 song384 song755 song246 song843
+waterway,song681 song39
+harbor,song420 song929 song722 song423 song568 song925 song655 song876 song457 song422
+marina,song977 song840 song61 song374 song974 song837 song871 song240 song458 song87
+vehicle,song508 song605 song123 song840 song492
+panorama,song557 song457 song992 song796 song156
+towerblock,song125 song153 song797 song568 song959 song418 song566 song609 song993 song913
+dock,song205 song272 song34 song550 song788 song640 song155 song958 song431 song239
+city,song967 song231 song835 song894 song387
+boating,song2 song234 song43 song625 song492 song795 song411
+tree,song331 song675 song248 song194 song347 song245 song503
+publicspace,song827 song62 song135 song598 song989 song771 song258 song353
+season,song181 song203 song478 song123 song469 song662 song36 song16
+neighbourhood,song73 song255 song168 song316
+plaza,song510 song956 song646 song533 song992 song560 song530 song244 song708
+campus,song630
+park,song418 song368 song356
+autumn,song803 song744 song360 song268
+pedestrian,song96 song938 song234 song104 song644
+school,song339 song693 song766
+cartoon,song886 song23
+comics,song389 song87 song78 song668
+comics artist,song278 song584 song344 song5 song351 song160
+comicbook,song956 song368 song173 song535
+font,song29 song983 song864 song796
+illustration,song488 song797 song36 song630 song731 song961 song91 song254
+fiction,song304 song289 song109 song136 song288 song156 song404 song646 song599
+snow,song771 song692 song511
+weather,song538 song683
+winter,song192 song310 song12 song638 song531 song885 song943
+blizzard,song239 song272 song914 song532 song346 song761
+geological phenomenon,song94 song582 song492 song63 song974
+footwear,song969 song423 song873 song481 song320 song246 song907 song560 song852
+winterstorm,song797 song758 song672 song634 song715 song174 song671
+season,song399 song166 song213 song578 song659
+freezing,song228 song433 song926 song124 song221 song807 song823 song347 song926 song459
+sports,song598
+team,song84 song189 song299 song666 song300 song603 song144 song438 song663 song707
+basketba,song288 song638
+hair,song379 song370 song136 song465 song408
+humanaction,song464 song634 song409 song29 song478
+person,song733 song144 song322 song970
+clothing,song661 song402 song670 song752 song273 song98 song283 song313 song976 song337
+girl,song88
+blond,song325 song93 song105 song217 song612 song809 song449 song435 song215 song635
+mouth,song300 song685 song498 song275 song969 song855 song492 song590 song861
+blackhair,song769 song292 song779 song299 song38 song994
+hairstyle,song291 song595 song608
+glasses,song489
+leg,song940 song625
+hand,song335 song252 song917 song233 song127
+property,song221 song145 song194
+town,song35 song683 song208 song399
+neighbourhood,song187 song674 song976 song222 song28 song924 song828
+residential area,song781 song874 song385 song785 song349
+tree,song812 song957 song450 song759 song761 song86 song859 song537
+weather,song185 song524 song752 song381 song318 song968 song101 song865
+,song442 song266 song534 song948 song892 song919 song760 song373
+road,song45 song196
+street,song760 song735 song186 song402 song250
+winter,song303 song594 song421 song227 song469
+waterway,song538 song832 song763 song450 song411
+snow,song814 song313 song329 song287 song608 song228
+weather,song252 song687 song261 song595 song520 song923 song937 song837
+piste,song522 song574 song669 song61
+blizzard,song803 song672 song438 song261 song26
+winterstorm,song526 song40 song279 song512
+freezing,song516 song45 song155 song755 song241 song134 song20 song977
+black,song634 song50 song660 song854
+facial expression,song838 song158 song984
+hair,song587 song894 song161 song275
+white,song492 song870 song857 song934 song715
+face,song676
+black and white,song919
+photograph,song954
+person,song639 song615 song661 song518 song799 song496 song961 song501 song766
+image,song606 song293 song161
+woman,song942 song963 song878 song90
+photography,song802 song247 song848 song196 song391 song675
+human positions,song596 song943 song343
+lady,song865 song792 song772 song42 song97 song505 song149 song238
+girl,song417 song304 song69 song573 song385 song157 song461
+smile,song122 song263 song257
+beauty,song811
+monochrome photography,song552 song273 song577 song933 song621 song386 song44 song273
+monochrome,song439 song388 song25
+sitting,song644 song262 song510
+head,song575 song477 song388 song175 song359 song577 song400 song193
+portrait,song293 song392 song883 song432 song400 song388
+finger,song193 song692 song373 song80 song349
+hand,song194 song445 song381 song565 song723 song643 song296
+arm,song988 song86 song114
+nail,song512 song482 song840 song496 song485 song656
+thumb,song390 song740
+sense,song96 song851 song698 song467 song94 song826
+human body,song825 song546 song684 song345 song807 song914
+sign language,song314
+horizon,song953 song218 song145 song439 song416
+sea,song532 song586 song32 song60 song484 song900 song517 song51 song209 song367
+ocean,song772 song203 song99 song547 song811 song518 song755 song864 song903
+vacation,song6 song489 song902 song289 song475
+coast,song187 song66 song432 song185 song711 song896 song547 song768 song858
+beach,song181 song817 song927 song672
+sunlight,song815 song299 song922 song93 song208 song318 song239 song857 song319 song473
+cape,song742 song752 song744 song352 song143 song925 song850 song690 song810
+eyewear,song733
+hair,song947 song638
+glasses,song485 song412 song283 song213 song767 song47 song13 song535
+vision care,song886 song727 song206 song139
+face,song619 song438 song623 song821 song760 song604 song835 song358 song194
+eyebrow,song381 song332 song883 song322 song552 song185 song170 song903 song762
+nose0,song151 song435 song938 song534 song505 song239 song691 song94 song894
+hairstyle,song239 song263
+sunglasses,song180 song83 song489 song451 song487 song371 song41 song368 song50 song756
+brownhair,song995 song631 song286 song34 song268 song605 song530 song178 song734 song491
+head,song55 song314 song775 song245 song280 song48 song342 song805
+longhair,song151 song179 song703 song17
+organ,song2 song811 song152 song482
+water,song762 song19
+sea,song93 song462 song440 song895 song963 song67 song461 song767
+lake,song356 song483 song389 song300 song170 song975 song727 song887 song207 song629
+cartoon,song13 song7 song531 song549 song275 song394 song938 song462
+comics,song994 song316 song43
+comicbook,song714 song574
+art,song373
+sketch,song859 song994 song499
+drawing,song808 song851 song205 song403 song950
+poster,song853 song25 song780 song959 song615 song861
+illustration,song906
+fiction,song165 song416
+person,song549 song278 song559 song803 song190 song905 song137 song730 song431 song223
+image0,song12 song910 song91
+girl,song491 song813 song863
+humanpositions,song490 song18 song403 song232 song965 song778 song982 song57
+head,song402 song643 song115 song669 song807 song493
+skin,song753 song846 song115 song905 song819 song66 song970 song983
+glasses,song898 song226 song661 song515
+sense,song907 song393 song31 song693
+hand,song527 song414 song909 song707 song601 song466 song790
